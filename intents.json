@@ -1,0 +1,14 @@
+{
+  "rent": {
+    "keywords": ["rent", "payment", "due"],
+    "response": "💰 Monthly rent is ₹8000. Due date is 5th of every month."
+  },
+  "leave": {
+    "keywords": ["leave", "vacation", "out"],
+    "response": "📝 Leave requests must be submitted at least 1 day in advance."
+  },
+  "rules": {
+    "keywords": ["rules", "timing", "curfew"],
+    "response": "⏰ Hostel entry closes at 10 PM. Please follow all safety rules."
+  }
+}
