@@ -1,0 +1,32 @@
+# Tenant Services Chatbot – Documentation
+
+## Overview
+This project is a Tenant Services Chatbot built using Python and Streamlit to help tenants with FAQs, complaint registration, and hostel/PG rules.
+
+## Features
+- FAQ handling (rent, rules, leave)
+- Maintenance complaint registration
+- Admin view for complaint tracking
+- Emotion-aware responses (creative feature)
+
+## Tech Stack
+- Python
+- Streamlit
+- SQLite
+
+## Setup Instructions
+1. Clone the repository
+2. Install Streamlit
+   python -m pip install streamlit
+3. Run the application
+   python -m streamlit run app.py
+
+## Usage
+- Ask questions related to rent and policies
+- Report maintenance issues
+- View complaints in admin section
+
+## Future Scope
+- Generative AI integration
+- Voice-based chatbot
+- Authentication for admin
